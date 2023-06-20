@@ -29,3 +29,10 @@ To run the FastAPI Question-Answering application and make requests to it using 
 8. The `request.py` script will extract the answer from the response and print it.
 
 By following these steps, you should be able to run the FastAPI application and make requests to it using the provided `request.py` script. Remember to have the FastAPI application running before executing the `request.py` script.
+
+
+
+https://github.com/kedar0705/Question-Answering/assets/86918750/7b98ab19-9f7b-482f-9cb4-1d8f2604f9ee
+
+
+
